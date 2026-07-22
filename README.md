@@ -71,6 +71,7 @@ const fatima = {
  "Freelance Projects"
 
 };
+```
 🛠️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,vite,nodejs,npm,git,github,figma,vscode&perline=8"/> </div>
 🚀 Featured Projects
