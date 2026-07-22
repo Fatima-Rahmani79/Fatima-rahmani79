@@ -1,136 +1,115 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:06B6D4,100:8B5CF6&height=230&section=header&text=Fatima%20Rahmani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-</div>
-
-
 <h1 align="center">
 Hi 👋 I'm Fatima Rahmani
 </h1>
 
 <h3 align="center">
-Frontend Developer | React • Next.js • TypeScript
+Frontend Developer | React & Next.js
 </h3>
 
-
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Clean+Code+%26+Beautiful+UI;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+Developer;Clean+Code+%26+Modern+UI;Always+Learning+New+Technologies" />
 
 </p>
 
-
-<p align="center">
-
-<a href="https://fatima-rahmani.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fatima-rahmani-556320365">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.fiverr.com/s/7YRR8WL">
-<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=for-the-badge&logo=fiverr"/>
-</a>
-
-</p>
-
-
-<br>
-
+---
 
 ## 👩‍💻 About Me
 
+- 🚀 Frontend Developer focused on **React & Next.js**
+- 🎨 Passionate about clean UI and responsive design
+- ⚡ I enjoy building modern, fast, scalable web applications.
+- 🌱 Currently improving my TypeScript and Next.js skills.
+- 💼 Available for Freelance Projects.
 
-```javascript
-const fatima = {
+---
 
- role: "Frontend Developer",
+## 🛠 Tech Stack
 
- location: "Afghanistan",
+<p>
 
- skills: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
- ],
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,nodejs,npm,git,github,vscode,figma" />
 
- focus:
- "Creating fast, responsive and beautiful web experiences",
+</p>
 
- currentlyLearning:[
-    "Advanced TypeScript",
-    "Next.js",
-    "Modern Frontend Architecture"
- ],
+---
 
- availableFor:
- "Freelance Projects"
+## 🚀 Featured Projects
 
-};
-```
-🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,vite,nodejs,npm,git,github,figma,vscode&perline=8"/> </div>
-🚀 Featured Projects
-<table> <tr> <td width="50%">
-🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-A modern responsive portfolio website showcasing my skills, projects and experience.
+Modern responsive portfolio built with React.
 
-Built with:
+🔗 https://fatima-rahmani.vercel.app/
 
-React • Tailwind CSS • Vite
+---
 
-🔗 Live:
-https://fatima-rahmani.vercel.app/
+### 🛒 Product Store
 
-</td> <td width="50%">
-🛒 Product Store
+React CRUD Application
 
-A modern product management application.
+---
 
-Features:
+### 💻 Tech Store
 
-Product listing
-CRUD operations
-Responsive design
-Reusable components
+Modern Ecommerce UI
 
-Built with:
+---
 
-React • JavaScript • API
+## 📊 GitHub Stats
 
-</td> </tr> <tr> <td width="50%">
-💻 Tech Store
-
-Modern ecommerce interface focused on clean UI and user experience.
-
-Built with:
-
-React • Next.js
-
-</td> <td width="50%">
-🌉 Pixel Bridge Portfolio
-
-Collaborative portfolio platform.
-
-Role:
-
-Frontend Team Lead
-
-Technologies:
-
-React • TypeScript • Tailwind CSS
-
-</td> </tr> </table>
-📊 GitHub Stats
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fatima-Rahmani79&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-Rahmani79&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p> ```
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-Rahmani79&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-Rahmani79&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+
+## 🌍 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/fatima-rahmani-556320365">LinkedIn</a>
+
+•
+
+<a href="https://fatima-rahmani.vercel.app/">Portfolio</a>
+
+•
+
+<a href="https://www.fiverr.com/s/7YRR8WL">Fiverr</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Fatima-Rahmani79&style=for-the-badge"/>
+
+</p>
