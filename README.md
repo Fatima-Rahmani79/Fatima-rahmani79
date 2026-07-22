@@ -40,7 +40,7 @@ Frontend Developer | React & Next.js
 
 Modern responsive portfolio built with React.
 
-🔗 https://YOUR-PORTFOLIO
+🔗 https://fatima-rahmani.vercel.app/
 
 ---
 
@@ -60,9 +60,9 @@ Modern Ecommerce UI
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fatima-Rahmani79&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-Rahmani79&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -72,7 +72,7 @@ Modern Ecommerce UI
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-Rahmani79&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Modern Ecommerce UI
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Fatima-Rahmani79&theme=tokyonight&no-frame=true&row=1"/>
 
 </p>
 
@@ -92,7 +92,7 @@ Modern Ecommerce UI
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-Rahmani79&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -102,7 +102,7 @@ Modern Ecommerce UI
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Fatima-Rahmani79/Fatima-Rahmani79/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -112,15 +112,15 @@ Modern Ecommerce UI
 
 <p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+<a href="https://www.linkedin.com/in/fatima-rahmani-556320365">LinkedIn</a>
 
 •
 
-<a href="https://YOUR_PORTFOLIO">Portfolio</a>
+<a href="https://fatima-rahmani.vercel.app/">Portfolio</a>
 
 •
 
-<a href="https://www.fiverr.com/YOUR_USERNAME">Fiverr</a>
+<a href="https://www.fiverr.com/s/7YRR8WL">Fiverr</a>
 
 </p>
 
@@ -128,6 +128,6 @@ Modern Ecommerce UI
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Fatima-Rahmani79&style=for-the-badge"/>
 
 </p>
