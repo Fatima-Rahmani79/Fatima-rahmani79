@@ -1,16 +1,133 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋 I'm Fatima Rahmani
+</h1>
 
-<!--
-**Fatima-Rahmani79/Fatima-rahmani79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | React & Next.js
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+Developer;Clean+Code+%26+Modern+UI;Always+Learning+New+Technologies" />
+
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🚀 Frontend Developer focused on **React & Next.js**
+- 🎨 Passionate about clean UI and responsive design
+- ⚡ I enjoy building modern, fast, scalable web applications.
+- 🌱 Currently improving my TypeScript and Next.js skills.
+- 💼 Available for Freelance Projects.
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,nodejs,npm,git,github,vscode,figma" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+
+Modern responsive portfolio built with React.
+
+🔗 https://YOUR-PORTFOLIO
+
+---
+
+### 🛒 Product Store
+
+React CRUD Application
+
+---
+
+### 💻 Tech Store
+
+Modern Ecommerce UI
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+
+•
+
+<a href="https://YOUR_PORTFOLIO">Portfolio</a>
+
+•
+
+<a href="https://www.fiverr.com/YOUR_USERNAME">Fiverr</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+
+</p>
