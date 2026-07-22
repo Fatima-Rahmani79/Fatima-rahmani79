@@ -104,22 +104,6 @@ I'm **Fatima Rahmani**, a Frontend Developer specializing in **React** and **Nex
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://fatima-rahmani.vercel.app/">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fatima-Rahmani79&repo=portfolio&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/Fatima-Rahmani79?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fatima-Rahmani79&repo=&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&show_owner=true" />
-</a>
-
-</div>
-
-> 💡 **Note:** Pin your best repositories on GitHub (top-right of your profile → "Customize your pins") and update the `repo=` values above with their exact names so these cards render correctly.
-
-<br/>
 
 ## 📊 GitHub Analytics
 
@@ -135,14 +119,6 @@ I'm **Fatima Rahmani**, a Frontend Developer specializing in **React** and **Nex
 </div>
 
 <br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-Rahmani79&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
-
-</div>
 
 <br/>
 
