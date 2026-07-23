@@ -126,7 +126,7 @@ I'm **Fatima Rahmani**, a Frontend Developer specializing in **React** and **Nex
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Fatima-Rahmani79/Fatima-Rahmani79/output/github-contribution-grid-snake-light.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Fatima-Rahmani79/Fatima-Rahmani79/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
