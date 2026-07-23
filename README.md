@@ -109,12 +109,7 @@ I'm **Fatima Rahmani**, a Frontend Developer specializing in **React** and **Nex
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fatima-Rahmani79&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-Rahmani79&theme=dark&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-Rahmani79&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" />
 
 </div>
 
