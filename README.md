@@ -4,7 +4,7 @@
 
 I’m a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas and designs into clean, maintainable interfaces and continuously improving my understanding of frontend architecture, performance, and best practices.
+I enjoy turning ideas and designs into clean, maintainable interfaces with a focus on usability, performance, and scalable frontend architecture.
 
 ---
 
@@ -15,7 +15,6 @@ I enjoy turning ideas and designs into clean, maintainable interfaces and contin
 * 🌐 Experienced in building responsive and multilingual web applications
 * 🔌 Comfortable working with **REST APIs and Supabase**
 * 🧩 Interested in reusable components, clean architecture, and maintainable code
-* 🚀 Currently looking for opportunities to grow as a **Frontend Developer**
 
 ---
 
