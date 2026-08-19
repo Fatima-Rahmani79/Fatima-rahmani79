@@ -1,138 +1,41 @@
-<div align="center">
+👩‍💻 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Fatima%20Rahmani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%2F%20Next.js%20Specialist&descAlignY=58&descSize=20" width="100%"/>
+Frontend Developer focused on building modern web applications
+with React, Next.js, and TypeScript.
 
-<br/>
+🛠️ Tech Stack
 
-<a href="https://www.linkedin.com/in/fatima-rahmani-556320365">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+Specialist+%E2%9A%9A%EF%B8%8F;I+Build+Fast%2C+Clean%2C+Scalable+UIs+%E2%9C%A8;Open+for+Freelance+%26+Full-time+Roles+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=24&pause=1200"/>
-</a>
+Frontend
+React • Next.js • TypeScript • JavaScript
 
-<br/><br/>
+Styling
+Tailwind CSS • CSS Modules • Bootstrap
 
-<a href="https://fatima-rahmani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/fatima-rahmani-556320365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.fiverr.com/s/7YRR8WL"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+Backend / Data
+Supabase • REST APIs
 
-<br/>
+Tools
+Git • GitHub • Figma • Vercel
 
-<img src="https://komarev.com/ghpvc/?username=Fatima-Rahmani79&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
+🚀 Featured Projects
 
-</div>
+KaarYab Afghanistan
+...
 
-<br/>
+TechStore
+...
 
-## 👩‍💻 About Me
+World Explorer
+...
 
-```typescript
-const fatimaRahmani = {
-  role: "Frontend Developer",
-  location: "🌍 Available Worldwide (Remote)",
-  stack: {
-    languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-    frameworks: ["React", "Next.js"],
-    styling: ["Tailwind CSS", "CSS Modules"],
-    focus: ["Responsive Design", "Performance", "Clean Architecture"],
-  },
-  currentGoal: "Building premium web experiences for clients & companies",
-  funFact: "I turn Figma designs into pixel-perfect, production-ready code",
-  openTo: ["Freelance Projects", "Full-time Opportunities", "Collaborations"],
-};
+💡 What I Care About
 
-console.log(fatimaRahmani.role);
-// → "Frontend Developer"
-```
+• Responsive and accessible interfaces
+• Reusable components
+• Clean and maintainable code
+• Performance
+• Good developer experience
 
-I'm **Fatima Rahmani**, a Frontend Developer specializing in **React** and **Next.js**. I love crafting interfaces that are fast, accessible, and visually polished — turning complex requirements into clean, maintainable code. Currently taking on freelance projects and open to full-time opportunities.
+📫 Let's Connect
 
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,git,github,figma,vscode,vercel&theme=dark" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Frameworks & Libraries**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Tools & Platforms**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Design**
-<br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=flat-square&logo=css3&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-Rahmani79&theme=dark&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
-
-</div>
-
-<br/>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm currently available for **freelance projects** and **full-time frontend roles**. If you have an idea, a project, or an opportunity — let's talk!
-
-<a href="https://fatima-rahmani.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00c6ff?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/fatima-rahmani-556320365"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
-<a href="https://www.fiverr.com/s/7YRR8WL"><img src="https://img.shields.io/badge/🛒_Fiverr-Hire_Me-1DBF73?style=for-the-badge" /></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<sub>⭐ From <a href="https://github.com/Fatima-Rahmani79">Fatima-Rahmani79</a> — Thanks for stopping by! Feel free to star repos you find useful.</sub>
-</div>
+Portfolio | LinkedIn
